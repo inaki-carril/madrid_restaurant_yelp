@@ -1,5 +1,5 @@
-py -m pip install folium
-py -m pip install branca.colormap
-py -m pip install streamlit_folium
+folium
+branca.colormap
+streamlit_folium
 
 
