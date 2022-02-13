@@ -12,13 +12,6 @@ Created on Sat Jan 22 18:39:59 2022
 #%%
 
 #%%
-# IMPORTANTE, en dos mapas que funcinaban perfectamente (average ratings y number of reviews)
-# el mapeo de una variable para mostrar colores dependiendo de estas variables dejaron de funcionar
-# y no se la razon. En el notebook de yelp_processing esta el mismo codigo y los mapas se ven bien
-# me gustaria saber la razon, si me la puedes comentar cuando subas la correccion lo agradeceria.
-#%%
-
-#%%
 import streamlit as st
 import pandas as pd
 from streamlit_folium import folium_static
